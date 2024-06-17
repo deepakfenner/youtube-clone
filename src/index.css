@@ -6,5 +6,12 @@
 }
 a{
     text-decoration: none;
-    background-color: grey;
+    color:#5a5a5a;
+}
+img{
+    cursor:pointer;
+}
+.flex-div{
+    display: flex;
+    align-items: center;
 }
